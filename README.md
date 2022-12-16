@@ -1,7 +1,6 @@
 # azure_resources_terraform_project
 
-## Summary: In this project we are going to create RG, VMs(virtual machine), VNET, Subnets, storage accounts and Load balancer 
-in the Azure environment using terraform. 
+## Summary: In this project we are going to create RG, VMs(virtual machine), VNET, Subnets, storage accounts and Load balancer in the Azure environment using terraform. 
             
 ### Step 1. Creating resources with terraform 
 
