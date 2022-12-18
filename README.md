@@ -6,7 +6,7 @@
 
 ### create below .tf files in squence 
 
-* providers.tf 
+* providers.tf
 * resource_group.tf
 * variables.tf
 * vnet.tf
